@@ -1,5 +1,7 @@
 # Skript-guild
 
+Minecraft version tested: 1.16.x
+
 List Commands:
 
 - /guild help <page>
